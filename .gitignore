@@ -1,0 +1,10 @@
+/compile_log_success
+/nbproject/
+/.dep.inc
+
+*.dump
+*.elf
+*.hex
+*.dump
+/old_make_file
+
